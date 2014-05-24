@@ -3678,6 +3678,12 @@ INSERT INTO `item_weapon` VALUES (18562,'yhatdhara_+1',0,0,0,1,0,0,0);
 INSERT INTO `item_weapon` VALUES (19759,'yoichinoyumi',0,0,0,1,0,0,0);
 INSERT INTO `item_weapon` VALUES (18634,'zamzummim_staff',0,0,0,1,0,0,0);
 INSERT INTO `item_weapon` VALUES (21257,'zoquittihuitz',0,0,0,1,0,0,0);
+
+INSERT INTO `item_weapon` VALUES (20970,'kikoku',9,0,0,1,210,109,0);
+INSERT INTO `item_weapon` VALUES (20971,'kikoku',9,0,0,1,210,109,0);
+INSERT INTO `item_weapon` VALUES (21060,'mjollnir',11,0,3,1,308,160,0);
+INSERT INTO `item_weapon` VALUES (21061,'mjollnir',11,0,3,1,308,160,0);
+
 /*!40000 ALTER TABLE `item_weapon` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
